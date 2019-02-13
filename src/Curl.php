@@ -6,6 +6,8 @@
  * Time: 16:08
  */
 
+namespace Yandex;
+
 class Curl
 {
     public function get($url = "")

@@ -1,0 +1,15 @@
+{
+    "name": "Nurullah/yandex-map",
+    "authors": [
+        {
+            "name": "Nurullah ISIK",
+            "email": "nurullahisik7@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yandex\\": "src/"
+        }
+    }
+}
